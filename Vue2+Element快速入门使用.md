@@ -48,14 +48,14 @@
 
 #### 3. 点击显示代码
 
-[02](images/02.png)
+![02](images/02.png)
 
 
 
 #### 4.复制代码到.html文档
 
-[03](images/03.png)
-[04](images/04.png)
+![03](images/03.png)
+![04](images/04.png)
 
 #### 5.代码实现
 
@@ -182,4 +182,4 @@
 
 #### 6.实现的效果
 
-[05](images/05.png)
+![05](images/05.png)
