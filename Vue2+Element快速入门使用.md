@@ -48,15 +48,16 @@
 
 #### 3. 点击显示代码
 
-![image-20230606224726956](C:\Users\47052\Desktop\image-20230606224726956.png)
+[02](images/02.png)
 
 
 
 #### 4.复制代码到.html文档
 
-![image-20230606230900808](C:\Users\47052\AppData\Roaming\Typora\typora-user-images\image-20230606230900808.png)
+[03](images/03.png)
+[04](images/04.png)
 
-#### **![image-20230606231217968](C:\Users\47052\AppData\Roaming\Typora\typora-user-images\image-20230606231217968.png)**5.代码实现
+#### 5.代码实现
 
 ```html
 <!DOCTYPE html>
@@ -181,4 +182,4 @@
 
 #### 6.实现的效果
 
-![image-20230606231452895](C:\Users\47052\AppData\Roaming\Typora\typora-user-images\image-20230606231452895.png)
+[05](images/05.png)
